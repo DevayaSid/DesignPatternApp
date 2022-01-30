@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DesignPatternApp</string>
+    <string name="getAppName">Get App Name</string>
 </resources>
